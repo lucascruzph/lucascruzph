@@ -1,4 +1,4 @@
-<img align="right" src= "img.png" width=20px>
+<img align="right" src= "img.png" width=200px>
 
 - 👋 Hi, I’m @lucascruzph
 - 👀 I’m interested in #React #NodeJS #NextJS ...
