@@ -1,4 +1,4 @@
-<img align="right" src= "img.png" style="max-width: 40%;" />
+<img align="right" src= "img.png" style="max-width: 20%;" />
 
 - 👋 Hi, I’m @lucascruzph
 - 👀 I’m interested in #React #NodeJS #NextJS ...
