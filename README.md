@@ -1,4 +1,3 @@
-<img align="right" src= "Lucas.jpg" width=300px>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65182525966140b4f21292e4?variant=dark&roadmaps=python%2Csql%2Cbackend%2Cfrontend" alt="roadmap.sh"/></a>
 
 - 👋 Olá, Eu me chamo Lucas Cruz
